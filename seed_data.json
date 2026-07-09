@@ -178,5 +178,138 @@
       {"name": "Привод", "value": "Задний", "highlight": false},
       {"name": "Тип кузова", "value": "Купе (среднемоторная компоновка)", "highlight": false}
     ]
+  },
+  {
+    "car_id": "aston_martin_valhalla",
+    "brand": "aston_martin",
+    "title": "Aston Martin Valhalla",
+    "price": "45 000 000 ₽",
+    "preorder_url": "../preorder.html?car=aston_martin_valhalla",
+    "images": [
+      "../assets/Aston Martin Valhalla/1.jpg",
+      "../assets/Aston Martin Valhalla/2.jpg",
+      "../assets/Aston Martin Valhalla/59194807ccbcc2b7064943980a578de2.jpg",
+      "../assets/Aston Martin Valhalla/95efa7be2aee4d496bbcbb3759da0980.jpg",
+      "../assets/Aston Martin Valhalla/astmvhi24-06.jpg",
+      "../assets/Aston Martin Valhalla/fd413e21a4b926f61dd3e41553b9179e.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "2.5 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "350 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "1012 л.с. (744 кВт)", "highlight": false},
+      {"name": "Крутящий момент", "value": "1000 Н·м", "highlight": false},
+      {"name": "Тип двигателя", "value": "4.0 л, V8, бензиновый, двойной турбонаддув + 3 электромотора (PHEV)", "highlight": false},
+      {"name": "Коробка передач", "value": "8-ступенчатая роботизированная с двумя сцеплениями", "highlight": false},
+      {"name": "Привод", "value": "Полный", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1550 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "bugatti_veyron",
+    "brand": "bugatti",
+    "title": "Bugatti Veyron 16.4",
+    "price": "150 000 000 ₽",
+    "preorder_url": "../preorder.html?car=bugatti_veyron",
+    "images": [
+      "../assets/bugatti veyron/1.jpg",
+      "../assets/bugatti veyron/3163.jpg",
+      "../assets/bugatti veyron/1594821801_96.jpg",
+      "../assets/bugatti veyron/2f5022addc903c5c8f61d260c20fdcdc.jpg",
+      "../assets/bugatti veyron/34457471f0c255d5f33798356fc420e1.jpg",
+      "../assets/bugatti veyron/6a7d1231e565c0bc1e2248d2fb954377.jpg",
+      "../assets/bugatti veyron/ebaf9de0737abf4b352e778e0638705c.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "2.5 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "407 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "1001 л.с. (736 кВт) при 6000 об/мин", "highlight": false},
+      {"name": "Крутящий момент", "value": "1250 Н·м при 2200–5500 об/мин", "highlight": false},
+      {"name": "Тип двигателя", "value": "8.0 л, W16, бензиновый, 4 турбокомпрессора", "highlight": false},
+      {"name": "Коробка передач", "value": "7-ступенчатая роботизированная с двумя сцеплениями (DSG)", "highlight": false},
+      {"name": "Привод", "value": "Полный", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1888 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "ferrari_sf90_stradale",
+    "brand": "ferrari",
+    "title": "Ferrari SF90 Stradale",
+    "price": "38 000 000 ₽",
+    "preorder_url": "../preorder.html?car=ferrari_sf90_stradale",
+    "images": [
+      "../assets/Ferrari SF90 Stradale/1.jpg",
+      "../assets/Ferrari SF90 Stradale/17a82ab627f0079b4bd8115b896c0451.jpg",
+      "../assets/Ferrari SF90 Stradale/22aa778f808494061c724c7fd211ef77.jpg",
+      "../assets/Ferrari SF90 Stradale/5u9f2far17vsla7li5oruvalt0qeiu6g.jpg",
+      "../assets/Ferrari SF90 Stradale/882f1dcc7e35a934c6cb78370b7a07d8.jpg",
+      "../assets/Ferrari SF90 Stradale/b9bc6e84a3ac7795dd0bee9c38dd5b5a.png",
+      "../assets/Ferrari SF90 Stradale/d0c0ff13c0815ab932761b4d84752bc0.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "2.5 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "340 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "1000 л.с. (735 кВт)", "highlight": false},
+      {"name": "Крутящий момент", "value": "800 Н·м при 6000 об/мин (только ДВС)", "highlight": false},
+      {"name": "Тип двигателя", "value": "4.0 л, V8, бензиновый, двойной турбонаддув + 3 электромотора (PHEV)", "highlight": false},
+      {"name": "Коробка передач", "value": "8-ступенчатая роботизированная с двумя сцеплениями", "highlight": false},
+      {"name": "Привод", "value": "Полный", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1570 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "lamborghini_revuelto",
+    "brand": "lamborghini",
+    "title": "Lamborghini Revuelto",
+    "price": "52 000 000 ₽",
+    "preorder_url": "../preorder.html?car=lamborghini_revuelto",
+    "images": [
+      "../assets/Lamborghini Revuelto/1.jpg",
+      "../assets/Lamborghini Revuelto/75f3b2133629f40618f4d9063305ce93.jpg",
+      "../assets/Lamborghini Revuelto/9b78b0da9b9576b6279df1e4460b9f69.jpg",
+      "../assets/Lamborghini Revuelto/b9321be06f0dda14c5d6beb9efe010b5.jpg",
+      "../assets/Lamborghini Revuelto/ed89f308b9b36ca7f637c2fe1d085ad0.jpg",
+      "../assets/Lamborghini Revuelto/lambrvi23-02.jpg",
+      "../assets/Lamborghini Revuelto/lambrvi23-05.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "2.5 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "> 350 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "1015 л.с. (746 кВт)", "highlight": false},
+      {"name": "Крутящий момент", "value": "725 Н·м при 6750 об/мин (только ДВС)", "highlight": false},
+      {"name": "Тип двигателя", "value": "6.5 л, V12, бензиновый, атмосферный + 3 электромотора (PHEV)", "highlight": false},
+      {"name": "Коробка передач", "value": "8-ступенчатая роботизированная с двумя сцеплениями", "highlight": false},
+      {"name": "Привод", "value": "Полный", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1772 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "mclaren_p1",
+    "brand": "mclaren",
+    "title": "McLaren P1",
+    "price": "89 000 000 ₽",
+    "preorder_url": "../preorder.html?car=mclaren_p1",
+    "images": [
+      "../assets/McLaren P1/1.jpg",
+      "../assets/McLaren P1/39bb334c28fbef845d9b1d091e79440a.jpg",
+      "../assets/McLaren P1/6a09f7c424c77dbfff7bcbf1f6c3508f.jpg",
+      "../assets/McLaren P1/b1684ce6044cfc9e19671ab78f3c61d5.jpg",
+      "../assets/McLaren P1/d9f51fe5f8a30a72f136c2248a44d15f.jpg",
+      "../assets/McLaren P1/dc38acfd727fe1def9e06046dc80159d.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "2.8 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "350 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "916 л.с. (674 кВт)", "highlight": false},
+      {"name": "Крутящий момент", "value": "900 Н·м", "highlight": false},
+      {"name": "Тип двигателя", "value": "3.8 л, V8, бензиновый, двойной турбонаддув + электромотор (гибрид)", "highlight": false},
+      {"name": "Коробка передач", "value": "7-ступенчатая роботизированная с двумя сцеплениями (SSG)", "highlight": false},
+      {"name": "Привод", "value": "Задний", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1395 кг", "highlight": false}
+    ]
   }
 ]
