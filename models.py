@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Float, DateTime
+from sqlalchemy import Column, Integer, String, Float, DateTime, JSON
 from sqlalchemy.sql import func
 from database import Base
 
@@ -7,11 +7,13 @@ class Car(Base):
     __tablename__ = "cars"
 
     id = Column(Integer, primary_key=True, index=True)
+    car_id = Column(String, unique=True, index=True)
     brand = Column(String, index=True)
-    model = Column(String)
-    year = Column(Integer)
-    price = Column(Float)
-    image_url = Column(String)
+    title = Column(String)
+    price = Column(String)
+    preorder_url = Column(String)
+    images = Column(JSON)
+    specs = Column(JSON)
 
 
 class Order(Base):
@@ -26,3 +28,22 @@ class Order(Base):
     comments = Column(String, nullable=True)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     status = Column(String, default="new")
+
+
+class Feedback(Base):
+    __tablename__ = "feedbacks"
+
+    id = Column(Integer, primary_key=True, index=True)
+    name = Column(String)
+    phone = Column(String)
+    email = Column(String, nullable=True)
+    message = Column(String, nullable=True)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+
+
+class Admin(Base):
+    __tablename__ = "admins"
+
+    id = Column(Integer, primary_key=True, index=True)
+    username = Column(String, unique=True, index=True)
+    password_hash = Column(String)

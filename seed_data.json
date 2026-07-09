@@ -1,0 +1,182 @@
+[
+  {
+    "car_id": "aston_martin_vantage_s",
+    "brand": "aston_martin",
+    "title": "Aston Martin Vantage S",
+    "price": "18 500 000 ₽",
+    "preorder_url": "../preorder.html?car=aston_martin_vantage_s",
+    "images": [
+      "../assets/aston_martin/1.jpg",
+      "../assets/aston_martin/N4IghgdglgtmAuUD2EDOIBcBtAugGhAGMwYBTAJzE1CgBNMQAhAZQH0BhFAMygHNWAkhHisArKwAyACRAEkAB0Qp0GYAF81BQtz7UQdBgEEAsgDZTAJlkgFStHu0QevTFhABmAAwBGACzWAdgAFdnZrE2ZjcIBVb1NrRkZ2TwTGABEAaQS0gBV.jpg",
+      "../assets/aston_martin/N4IghgdglgtmAuUD2EDOIBcBtAugGhAGMwYBTAJzE1CgBNMQAhAZQH0BhFAMygHNWAogA94rAGwgCSAA6IU6DMAC+SgoW59qIOgwCCAWTFiATJJAy5aLeog9emLCADMABgCMAFjMB2AArt2MwNmfSCAVTcJAkZGdhczGIARAGkExIAVJzN2RmM.jpg",
+      "../assets/aston_martin/N4IghgdglgtmAuUD2EDOIBcBtAugGhAGMwYBTAJzE1CgBNMQAhAZQH0BhFAMygHNWAogA94rAIwgCSAA6IU6DMAC+SgoW59qIOgwCCAWQBshgEySQMuWi3qIPXpiwgAzAAYxAFnMB2AArt2cwNmfSCAVTFDc0ZGdldoxgARAGloxIAVZ3N2RhM.jpg",
+      "../assets/aston_martin/N4IghgdglgtmAuUD2EDOIBcBtAugGhAGMwYBTAJzE1CgBNMQAhAZQH0BhFAMygHNWAogA94rAKwgCSAA6IU6DMAC+SgoW59qIOgwCCAWQBshgEySQMuWi3qIPXpiwgAzAAYAjABZzAdgAK7OzmBsz6wQCq7obmjIzsrjGMACIA0jFJACrO5uyM.jpg",
+      "../assets/aston_martin/N4IghgdglgtmAuUD2EDOIBcBtAugGhAGMwYBTAJzE1CgBNMQAhAZQH0BhFAMygHNWAogA94rAMwgCSAA6IU6DMAC+SgoW59qIOgwCCAWQBshgEySQMuWi3qIPXpiwgxABgCMAFnMB2AArt2cwNmfSCAVTdDc0ZGdhdoxgARAGloxIAVCQJ2RhM.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "3.4 секунды", "highlight": true},
+      {"name": "Макс. скорость", "value": "325 км/ч (202 миль/ч)", "highlight": false},
+      {"name": "Мощность двигателя", "value": "680 л.с. (670–671 л.с. в зависимости от рынка)", "highlight": false},
+      {"name": "Крутящий момент", "value": "800 Н·м (590 lb-ft)", "highlight": false},
+      {"name": "Тип двигателя", "value": "4.0 л, V8, бензиновый, с двойным турбонаддувом (Twin-Turbo)", "highlight": false},
+      {"name": "Коробка передач", "value": "8-ступенчатая автоматическая ZF", "highlight": false},
+      {"name": "Привод", "value": "Задний", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе (доступен также родстер)", "highlight": false},
+      {"name": "Снаряжённая масса", "value": "1745 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "bugatti_vision_gt",
+    "brand": "bugatti",
+    "title": "Bugatti Vision Gran Turismo",
+    "price": "120 000 000 ₽",
+    "preorder_url": "../preorder.html?car=bugatti_vision_gt",
+    "images": [
+      "../assets/Buggati/1.jpg",
+      "../assets/Buggati/0118d8e17c8f8134b51f468a2d08908a.jpg",
+      "../assets/Buggati/b7db7fas-1920.jpg",
+      "../assets/Buggati/cd88ef5215bf96621a81b75c58b6a221 (1).jpg",
+      "../assets/Buggati/Festival_automobile_international_2016_-_Bugatti_Vision_Gran_Turismo_-_019.jpg",
+      "../assets/Buggati/i1D1kOsCCFRmRz.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "2.4 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "420 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "1650 л.с.", "highlight": false},
+      {"name": "Крутящий момент", "value": "1600 Н·м", "highlight": false},
+      {"name": "Тип двигателя", "value": "8.0 л, W16, бензиновый, четырёхтурбинный", "highlight": false},
+      {"name": "Коробка передач", "value": "7-ступенчатая роботизированная", "highlight": false},
+      {"name": "Привод", "value": "Полный", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1900 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "ferrari_fxx_k",
+    "brand": "ferrari",
+    "title": "Ferrari FXX K",
+    "price": "85 000 000 ₽",
+    "preorder_url": "../preorder.html?car=ferrari_fxx_k",
+    "images": [
+      "../assets/Ferrari/1.jpg",
+      "../assets/Ferrari/e1677c221f4f50b83f54d101e9b83c76.jpg",
+      "../assets/Ferrari/Ferrari FXX K EVO_2_28.10.17.jpg",
+      "../assets/Ferrari/ferrari-fxx-k-4.jpg",
+      "../assets/Ferrari/ferrari_fxx_k_6_85148.jpg",
+      "../assets/Ferrari/thumb_3448.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "2.5 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "360 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "1050 л.с. (772 кВт)", "highlight": false},
+      {"name": "Крутящий момент", "value": "свыше 900 Н·м", "highlight": false},
+      {"name": "Тип двигателя", "value": "6.3 л, V12, бензиновый, гибридный (HY-KERS)", "highlight": false},
+      {"name": "Коробка передач", "value": "7-ступенчатая роботизированная с двумя сцеплениями", "highlight": false},
+      {"name": "Привод", "value": "Задний", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1165 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "lamborghini_huracan",
+    "brand": "lamborghini",
+    "title": "Lamborghini Huracán",
+    "price": "32 000 000 ₽",
+    "preorder_url": "../preorder.html?car=lamborghini_huracan",
+    "images": [
+      "../assets/lamborgini/1.jpg",
+      "../assets/lamborgini/1106f406ded748885b2a07638ad7ebfa.jpg",
+      "../assets/lamborgini/2024_lamborghini_huracan_sterrato_63_2560x1440.jpg",
+      "../assets/lamborgini/a12faae0ee36feb69389c52f9379b52c.jpg",
+      "../assets/lamborgini/azrua1j2d2kw5pibuwyjdpw9yj28fb5n.jpeg",
+      "../assets/lamborgini/b_188462.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "3.2 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "325 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "610 л.с. (449 кВт) при 8250 об/мин", "highlight": false},
+      {"name": "Крутящий момент", "value": "560 Н·м при 6500 об/мин", "highlight": false},
+      {"name": "Тип двигателя", "value": "5.2 л, V10, бензиновый, атмосферный", "highlight": false},
+      {"name": "Коробка передач", "value": "7-ступенчатая роботизированная с двумя сцеплениями (LDF)", "highlight": false},
+      {"name": "Привод", "value": "Полный", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1422 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "mclaren_650s",
+    "brand": "mclaren",
+    "title": "McLaren 650S",
+    "price": "24 500 000 ₽",
+    "preorder_url": "../preorder.html?car=mclaren_650s",
+    "images": [
+      "../assets/McLaren_650S/1.jpg",
+      "../assets/McLaren_650S/15833004867_52f1f12350_b.jpg",
+      "../assets/McLaren_650S/3555d66e0726f66901ed77435f6741ae.jpg",
+      "../assets/McLaren_650S/6a8bf9e507894775bb0de4fac82895e4.jpg",
+      "../assets/McLaren_650S/maxresdefault.jpg",
+      "../assets/McLaren_650S/mclaren65i14r-01.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "3.0 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "333 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "650 л.с. (478 кВт) при 7250 об/мин", "highlight": false},
+      {"name": "Крутящий момент", "value": "678 Н·м при 6000 об/мин", "highlight": false},
+      {"name": "Тип двигателя", "value": "3.8 л, V8, бензиновый, двойной турбонаддув", "highlight": false},
+      {"name": "Коробка передач", "value": "7-ступенчатая роботизированная с двумя сцеплениями (SSG)", "highlight": false},
+      {"name": "Привод", "value": "Задний", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1330 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "porsche_911_gt3_touring",
+    "brand": "porsche",
+    "title": "Porsche 911 GT3 Touring",
+    "price": "22 000 000 ₽",
+    "preorder_url": "../preorder.html?car=porsche_911_gt3_touring",
+    "images": [
+      "../assets/Porsche_911/1.jpg",
+      "../assets/Porsche_911/36143c9463f5505ac86b90ceead638ea.jpg",
+      "../assets/Porsche_911/efd0cf043ad5077b144e07eaeffd649288cec35d.jpg",
+      "../assets/Porsche_911/maxresdefault.jpg",
+      "../assets/Porsche_911/Porsche 911 GT3 RS 12.jpg",
+      "../assets/Porsche_911/Porsche-911-GT3-Touring-031.jpg"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "3.9 сек", "highlight": true},
+      {"name": "Макс. скорость", "value": "316 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "500 л.с. (368 кВт) при 8250 об/мин", "highlight": false},
+      {"name": "Крутящий момент", "value": "460 Н·м при 6000 об/мин", "highlight": false},
+      {"name": "Тип двигателя", "value": "4.0 л, оппозитный 6-цилиндровый, бензиновый, атмосферный", "highlight": false},
+      {"name": "Коробка передач", "value": "6-ступенчатая механическая", "highlight": false},
+      {"name": "Привод", "value": "Задний", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе", "highlight": false},
+      {"name": "Сухая масса", "value": "1413 кг", "highlight": false}
+    ]
+  },
+  {
+    "car_id": "porsche_718_cayman",
+    "brand": "porsche",
+    "title": "Porsche 718 Cayman",
+    "price": "12 500 000 ₽",
+    "preorder_url": "../preorder.html?car=porsche_718_cayman",
+    "images": [
+      "../assets/Porsche_718/1.avif",
+      "../assets/Porsche_718/filters_format(avif) (1).avif",
+      "../assets/Porsche_718/filters_format(avif) (2).avif",
+      "../assets/Porsche_718/filters_format(avif) (4).avif",
+      "../assets/Porsche_718/filters_format(avif).avif"
+    ],
+    "specs": [
+      {"name": "Разгон 0-100 км/ч", "value": "4.9 с (с PDK) ; 4.7 с с пакетом Sport Chrono", "highlight": true},
+      {"name": "Макс. скорость", "value": "275 км/ч", "highlight": false},
+      {"name": "Мощность двигателя", "value": "300 л.с. (220 кВт) при 6500 об/мин", "highlight": false},
+      {"name": "Крутящий момент", "value": "380 Н·м в диапазоне 2050–4500 об/мин (с 7-ступенчатой PDK)", "highlight": false},
+      {"name": "Тип двигателя", "value": "2.0 л, оппозитный 4-цилиндровый, бензиновый, с турбонаддувом", "highlight": false},
+      {"name": "Коробка передач", "value": "7-ступенчатая роботизированная с двумя сцеплениями (Porsche Doppelkupplung, PDK) или 6-ступенчатая механическая", "highlight": false},
+      {"name": "Привод", "value": "Задний", "highlight": false},
+      {"name": "Тип кузова", "value": "Купе (среднемоторная компоновка)", "highlight": false}
+    ]
+  }
+]
